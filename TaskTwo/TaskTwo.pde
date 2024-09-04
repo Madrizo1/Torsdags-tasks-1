@@ -1,10 +1,11 @@
-"Tess Løvgreen";// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
-365;
-"København";
-true;
-60*24;
-22.12
-"Hej, jeg heddder "+teachername;
-false;
-2.2 + 33;
-'S';
+String teacherName = "Tess Løvgreen";
+int randomNumber = 365;
+
+String capital = "København"; 
+boolean is = true;
+int multiplication = 60*24; 
+float time = 22.12;
+String myname = "Hej, jeg heddder "+teacherName;
+boolean are = false;
+float canBe = 2.2 + 33;
+char capitalS = 'S';
